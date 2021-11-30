@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\Moanso Final\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Hp\Desktop\Moanso Final\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Hp\Desktop\Moanso Final\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Moanso Final\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Moanso Final\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Hp\Desktop\Moanso Final\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\josef\Desktop\T4_GRUPO04_PROYECTOMOTO\PROGRAMA\Moanso Final\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\josef\Desktop\T4_GRUPO04_PROYECTOMOTO\PROGRAMA\Moanso Final\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\josef\Desktop\T4_GRUPO04_PROYECTOMOTO\PROGRAMA\Moanso Final\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\josef\Desktop\T4_GRUPO04_PROYECTOMOTO\PROGRAMA\Moanso Final\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\josef\Desktop\T4_GRUPO04_PROYECTOMOTO\PROGRAMA\Moanso Final\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\josef\Desktop\T4_GRUPO04_PROYECTOMOTO\PROGRAMA\Moanso Final\CapaEntidad\obj\Debug\CapaEntidad.pdb
